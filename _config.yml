@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Arman Adibi / Site Title"
+title                    : "Arman Adibi"
 title_separator          : "-"
 name                     : &name "Arman Adibi"
 description              : &description "personal description"
