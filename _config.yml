@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &AdibiArman
 facebook:
   username               :
   app_id                 :
@@ -83,14 +83,13 @@ author:
   name             : "Arman Adibi"
   avatar           : "profile_pic2.jpeg"
   bio              : "Postdoctoral Researcher at Princeton University"
-  
-  employer         :
+
   
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=AikTZ-AAAAAJ&view_op=list_works&sortby=pubdate"
   email            : "aadibi@princeton.edu"
   github           : "adibiarman"
-  linkedin         : "https://www.linkedin.com/in/arman-adibi-6b8b0698"
-  twitter          : "replacethistwitterhandle"
+  linkedin         : "arman-adibi-6b8b0698"
+  twitter          : "AdibiArman"
 
 
 # Reading Files
