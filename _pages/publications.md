@@ -13,7 +13,7 @@ My most recent publications list can be seen on [my Google Scholar page](https:/
 
 -"Distributed Statistical Min-Max Learning in the Presence of Byzantine Agents " IEEE Conference on Decision and Control (CDC), 2022. [link](https://arxiv.org/pdf/2204.03187.pdf)
 
--"Minimax Optimization: The Case of Convex-Submodular" International Conference on Artificial Intelligence and Statistics (AISTATS), 2022. [link](https://proceedings.mlr.press/v151/adibi22a/adibi22a.pdf)
+-"Minimax Optimization: The Case of Convex-Submodular" International Conference on Artificial Intelligence and Statistics (oral at AISTATS), 2022. [link](https://proceedings.mlr.press/v151/adibi22a/adibi22a.pdf)
 <hr>
 2021
 <hr>
