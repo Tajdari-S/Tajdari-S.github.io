@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 My most recent publications list can be seen on [my Google Scholar page](https://scholar.google.com/citations?user=AikTZ-AAAAAJ&hl=en).
-
 <hr>
 2022
 <hr>
