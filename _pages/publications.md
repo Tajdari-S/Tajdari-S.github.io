@@ -9,7 +9,7 @@ My most recent publications list can be seen on [my Google Scholar page](https:/
 <hr>
 2024
 <hr>
--"Asymptotically Optimal Change Detection for Unnormalized Pre-and Post-Change Distributions" arxiv, 2024. [link](https://arxiv.org/pdf/2410.14615?)
+-"Asymptotically Optimal Change Detection for Unnormalized Pre-and Post-Change Distributions" arxiv, 2024. [link](https://arxiv.org/abs/2410.14615)
 
 -"Min-Max Optimization under Delay " American Control Conference (ACC), 2024. [link](https://arxiv.org/pdf/2307.06886)
 
