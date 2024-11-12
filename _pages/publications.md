@@ -13,7 +13,7 @@ My most recent publications list can be seen on [my Google Scholar page](https:/
 
 -"Min-Max Optimization under Delay " American Control Conference (ACC), 2024. [link](https://arxiv.org/pdf/2307.06886)
 
--"Finite-Time Analysis of Asynchronous Multi-Agent TD Learning" American Control Conference (ACC), 2024. [link]
+-"Finite-Time Analysis of Asynchronous Multi-Agent TD Learning" American Control Conference (ACC), 2024. [link](https://arxiv.org/abs/2407.20441)
 
 -"DASA: Delay-Adaptive Multi-Agent Stochastic Approximation" IEEE Conference on Decision and Control (CDC), 2024. [link](https://arxiv.org/pdf/2403.17247)
 
