@@ -27,3 +27,7 @@ I work on the theoretical foundations of AI, aiming to design scalable and relia
 - **Submodular Optimization & Meta-Learning.** I create scalable algorithms for discrete decision-making and adaptive meta-learning, enabling near-optimal performance in large-scale, uncertain settings.
 
 - **Adversarial Robustness & Decision-Making under Uncertainty.** I study principled risk measures and worst-case analyses to ensure dependable behavior under distribution shift and adversarial perturbations.
+
+## Open Positions
+
+I am recruiting highly motivated Ph.D. students with a strong mathematical background to join my research group. If interested, email aadibi@princeton.edu with the subject “PhD Application – Augusta University” and attach your CV and transcript.
