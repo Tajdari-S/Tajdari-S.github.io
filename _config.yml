@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Arman Adibi's homepage"
+title                    : "Sabiha Tajdari's homepage"
 title_separator          : "-"
-name                     : &name "Arman Adibi"
+name                     : &name "Sabiha Tajdari"
 description              : &description "personal description"
-url                      : https://adibiarman.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https:/Tajdari-S.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "adibiarman/adibiarman.github.io"
+repository               : "Tajdari-S/Tajdari-S.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &AdibiArman
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -80,16 +80,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Arman Adibi"
-  avatar           : "profile_pic2.jpeg"
-  bio              : "Assistant Professor, School of Computer and Cyber Sciences, Augusta University"
+  name             : "Sabiha Tajdari"
+  avatar           : "profile_pic_S.jpeg"
+  bio              : "Ph.D. Student, Computer Science, University of Virginia"
 
   
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=AikTZ-AAAAAJ&view_op=list_works&sortby=pubdate"
-  email            : "aadibi@princeton.edu"
-  github           : "adibiarman"
-  linkedin         : "arman-adibi-6b8b0698"
-  twitter          : "AdibiArman"
+  googlescholar    : "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C47&q=Sabiha+tajdari&btnG="
+  email            : "jvx2tt@virginia.edu"
+  github           : "Tajdari-S"
+  linkedin         : ""
+  twitter          : ""
 
 
 # Reading Files
